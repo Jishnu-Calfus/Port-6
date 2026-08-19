@@ -1,0 +1,15 @@
+services:
+  redis:
+    # redis-stack-server (not plain redis) — bundles the RedisJSON and
+    # RediSearch modules that langchain_redis's RedisCache and
+    # RedisSemanticCache require (JSON.* and vector-search commands aren't
+    # in vanilla Redis). Same protocol/port, drop-in for everything else.
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-stack-server --appendonly yes
+
+volumes:
+  redis_data:
