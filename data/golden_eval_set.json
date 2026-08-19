@@ -1,0 +1,302 @@
+[
+  {
+    "id": "q01",
+    "question": "How much paid parental leave are employees eligible for?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["12 weeks"],
+    "reference_answer": "Employees who have completed at least 6 months of continuous service are eligible for 12 weeks of paid parental leave following the birth, adoption, or foster placement of a child."
+  },
+  {
+    "id": "q02",
+    "question": "How many days of annual leave do employees accrue per month?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["1.5 days"],
+    "reference_answer": "Employees accrue paid annual leave at a rate of 1.5 days per month of continuous service, up to a maximum of 18 days per calendar year."
+  },
+  {
+    "id": "q03",
+    "question": "What happens to unused sick leave at the end of the year?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["does not carry over"],
+    "reference_answer": "Unused sick leave does not carry over to the next year and is not paid out upon separation."
+  },
+  {
+    "id": "q04",
+    "question": "What does SOP-114 require for expense reimbursement?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "remote-and-expense-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["30 days", "receipts"],
+    "reference_answer": "Employees must submit expense reports with itemized receipts within 30 days of the purchase date to be eligible for reimbursement, and any single request over $500 requires prior written director approval."
+  },
+  {
+    "id": "q05",
+    "question": "How many days in advance must business travel be booked?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "remote-and-expense-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["14 days"],
+    "reference_answer": "Business travel must be booked through the corporate travel portal at least 14 days in advance of departure whenever possible."
+  },
+  {
+    "id": "q06",
+    "question": "What is the policy on returning company equipment after termination?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "remote-and-expense-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["5 business days"],
+    "reference_answer": "Company equipment must be returned to IT within 5 business days of an employee's termination date, or the replacement cost may be deducted from the final paycheck where permitted by law."
+  },
+  {
+    "id": "q07",
+    "question": "What should an employee do if they witness workplace harassment?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "conduct-and-safety-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["report", "HR"],
+    "reference_answer": "They should report it as soon as possible to their manager, any member of HR, or through the confidential ethics hotline; reports are investigated promptly and confidentially."
+  },
+  {
+    "id": "q08",
+    "question": "How often are formal performance reviews conducted?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "conduct-and-safety-policy",
+    "expected_page": 3,
+    "expected_answer_keywords": ["twice a year", "June", "December"],
+    "reference_answer": "Formal performance reviews are conducted twice a year, in June and December, by each employee's direct manager."
+  },
+  {
+    "id": "q09",
+    "question": "What is required before storing company data on personal cloud storage?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "conduct-and-safety-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["prohibited"],
+    "reference_answer": "Storing company data on personal cloud storage is prohibited; company data must only be stored on approved, encrypted systems."
+  },
+  {
+    "id": "q10",
+    "question": "How many paid public holidays does the company observe?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["10"],
+    "reference_answer": "The company observes 10 paid public holidays per year."
+  },
+  {
+    "id": "q11",
+    "question": "Are employees paid out for unused annual leave when they leave the company?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["paid out", "final paycheck"],
+    "reference_answer": "Yes, employees who resign or are terminated are paid out for accrued but unused annual leave at their most recent base salary rate, included in their final paycheck."
+  },
+  {
+    "id": "q12",
+    "question": "How much compensatory off do I get for working on a weekend to meet a deadline?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["one additional day"],
+    "reference_answer": "Employees who work on a weekend or public holiday to meet a project or client deadline are entitled to one additional day of paid comp-off for each full day worked, to be used within 60 days."
+  },
+  {
+    "id": "q13",
+    "question": "How many days of bereavement leave are provided for the death of a spouse?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["5 consecutive days"],
+    "reference_answer": "Employees are entitled to 5 consecutive days of paid bereavement leave upon the death of an immediate family member, including a spouse."
+  },
+  {
+    "id": "q14",
+    "question": "What is the notice period for a Manager band employee who resigns?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "leave-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["60 days"],
+    "reference_answer": "The notice period for Manager and Senior Manager bands is 60 days from the date the resignation is formally submitted and acknowledged."
+  },
+  {
+    "id": "q15",
+    "question": "What relocation assistance does the company provide for an office transfer?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "remote-and-expense-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["relocation assistance"],
+    "reference_answer": "Employees relocating at management's request receive one-way economy travel for themselves and dependents, up to 30 days of temporary housing, and a settling-in allowance equal to one month's base salary."
+  },
+  {
+    "id": "q16",
+    "question": "How does the onsite deputation policy work for international client assignments?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "remote-and-expense-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["foreign allowance"],
+    "reference_answer": "Employees deputed onsite to a client location in another country receive a foreign allowance in addition to base salary plus company-arranged accommodation or a housing stipend, reviewed every 6 months."
+  },
+  {
+    "id": "q17",
+    "question": "How far in advance should I apply for a visa for international business travel?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "remote-and-expense-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["45 days"],
+    "reference_answer": "Employees traveling internationally for business must apply for their visa through the corporate immigration desk at least 45 days before departure."
+  },
+  {
+    "id": "q18",
+    "question": "What is the Internal Committee timeline for completing a harassment inquiry?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "conduct-and-safety-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["90 days"],
+    "reference_answer": "The Internal Committee is required to complete its inquiry within 90 days and submit its recommendation to management, which must act on it within 60 days of receipt."
+  },
+  {
+    "id": "q19",
+    "question": "What is the limit on gifts I can accept from a client or vendor?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "conduct-and-safety-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["$75"],
+    "reference_answer": "Employees may accept modest business gifts and entertainment valued under $75; anything exceeding that must be declined or disclosed and approved in advance, and cash-equivalent gifts of any value must never be accepted."
+  },
+  {
+    "id": "q20",
+    "question": "Are employees protected from retaliation if they report a violation through the whistleblower policy?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "conduct-and-safety-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["protected", "retaliation"],
+    "reference_answer": "Yes, employees who in good faith report suspected violations of law, the Code of Conduct, or company policy are protected from retaliation, and reports may be made confidentially or anonymously."
+  },
+  {
+    "id": "q21",
+    "question": "How often must I change my corporate password?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "it-security-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["90 days"],
+    "reference_answer": "Corporate passwords must be changed every 90 days and may not reuse any of the previous 5 passwords."
+  },
+  {
+    "id": "q22",
+    "question": "What happens to my personal data if my BYOD device is remotely wiped?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "it-security-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["not affected"],
+    "reference_answer": "A remote wipe only removes the corporate data partition on an enrolled BYOD device; the employee's personal data on the device is not affected."
+  },
+  {
+    "id": "q23",
+    "question": "What should I do if I suspect a security incident like a phishing email?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "it-security-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["immediately"],
+    "reference_answer": "Any suspected security incident must be reported to IT Security immediately via the emergency security hotline or the Report Security Incident button in the IT Service Portal, available 24/7."
+  },
+  {
+    "id": "q24",
+    "question": "How many years of service are required to be eligible for gratuity?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "compensation-and-offboarding-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["5", "years"],
+    "reference_answer": "Employees who complete 5 or more years of continuous service are eligible for gratuity, payable upon separation regardless of the reason for leaving."
+  },
+  {
+    "id": "q25",
+    "question": "How much is the employee referral bonus for a hard-to-fill specialist role?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "compensation-and-offboarding-policy",
+    "expected_page": 1,
+    "expected_answer_keywords": ["$2,000"],
+    "reference_answer": "The referral bonus for hard-to-fill specialist and leadership roles is $2,000, paid in two installments after the referred candidate's probation confirmation and after 6 months of service."
+  },
+  {
+    "id": "q26",
+    "question": "What happens if I want to leave before completing my full notice period?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "compensation-and-offboarding-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["buyout"],
+    "reference_answer": "An employee may request a notice period buyout, paying the company an amount equal to base salary for the unserved portion of the notice period, subject to manager and HR approval."
+  },
+  {
+    "id": "q27",
+    "question": "When is the weekly timesheet due?",
+    "type": "it_question",
+    "expect_refusal": false,
+    "expected_document_id": "compensation-and-offboarding-policy",
+    "expected_page": 2,
+    "expected_answer_keywords": ["Friday"],
+    "reference_answer": "Weekly timesheets allocating hours to the relevant project or client engagement code are due by end of day each Friday."
+  },
+  {
+    "id": "q28",
+    "question": "What is the company's policy on cryptocurrency signing bonuses?",
+    "type": "out_of_scope",
+    "expect_refusal": true,
+    "expected_document_id": null,
+    "expected_page": null,
+    "expected_answer_keywords": [],
+    "reference_answer": null
+  },
+  {
+    "id": "q29",
+    "question": "What's the capital of France?",
+    "type": "off_topic",
+    "expect_refusal": true,
+    "expected_document_id": null,
+    "expected_page": null,
+    "expected_answer_keywords": [],
+    "reference_answer": null
+  },
+  {
+    "id": "q30",
+    "question": "I want to report a coworker for harassment, what should I do?",
+    "type": "sensitive",
+    "expect_refusal": true,
+    "expected_document_id": null,
+    "expected_page": null,
+    "expected_answer_keywords": [],
+    "reference_answer": null
+  }
+]

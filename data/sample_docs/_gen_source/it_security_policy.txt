@@ -1,0 +1,36 @@
+IT SECURITY AND ACCEPTABLE USE POLICY
+Acme Robotics, Inc. | Policy Reference: SOP-301 | Effective January 2026
+
+1. PASSWORD AND ACCESS CONTROL
+
+All employees must use a unique password of at least 12 characters, combining uppercase, lowercase, numbers, and symbols, for their corporate account. Passwords must be changed every 90 days and may not reuse any of the previous 5 passwords. Multi-factor authentication (MFA) is mandatory for all corporate systems, including email, VPN, and internal applications. Shared or generic login credentials are prohibited except for designated service accounts explicitly approved by IT Security.
+
+Access to systems and data is granted on a least-privilege, role-based basis. Access requests beyond an employee's default role require manager approval and are reviewed by IT Security quarterly; access not used for 90 consecutive days is automatically revoked and must be re-requested if needed again.
+
+2. ACCEPTABLE USE OF IT RESOURCES
+
+Company-provided IT resources (laptops, email, internet access, internal systems) are intended primarily for business use. Limited, incidental personal use is permitted provided it does not interfere with work duties, consume significant bandwidth or storage, or violate any other company policy. Employees must not use company IT resources to access illegal content, engage in harassment, run personal businesses, or install unauthorized software of any kind.
+
+All activity on company systems may be monitored and logged for security purposes; employees should have no expectation of privacy when using company IT resources, consistent with applicable local law.
+
+3. BRING YOUR OWN DEVICE (BYOD) POLICY
+
+Employees may access corporate email and calendar on a personal mobile device only after enrolling the device in the company's Mobile Device Management (MDM) platform, which enforces a device passcode, remote wipe capability, and encryption. Personal devices used for BYOD access must not be jailbroken or rooted. Upon separation from the company, or if a BYOD device is lost or stolen, the employee must immediately notify IT Security so the corporate data partition can be remotely wiped; personal data on the device is not affected by this wipe.
+
+4. DATA CLASSIFICATION AND HANDLING
+
+Company data is classified into four tiers: Public (no restriction), Internal (employees only), Confidential (need-to-know basis, e.g., client contracts, unreleased product plans), and Restricted (highest sensitivity, e.g., employee personal data, financial records, security credentials). Confidential and Restricted data must be encrypted both at rest and in transit, must never be stored on personal devices or personal cloud storage, and may only be shared externally with explicit written approval from the data owner and Legal.
+
+Any suspected data classification error (e.g., Confidential data mistakenly marked Internal) should be reported to IT Security within 1 business day of discovery.
+
+5. VPN AND REMOTE ACCESS SECURITY
+
+Employees connecting to internal systems from outside the office network must use the company-approved VPN client with MFA enabled; split-tunneling (routing only some traffic through the VPN) is disabled by default and may only be enabled by IT Security exception for specific business needs. Use of public Wi-Fi without an active VPN connection to access any Confidential or Restricted company data is prohibited.
+
+6. SOFTWARE LICENSING COMPLIANCE
+
+Only software approved and licensed through IT Procurement may be installed on company devices. Installing unlicensed, pirated, or unapproved software — including free developer tools not vetted by IT Security — is a violation of this policy and may expose the company to legal liability. Employees who require a specific tool for their role should submit a request through the IT Service Portal; approved requests are typically fulfilled within 5 business days.
+
+7. SECURITY INCIDENT REPORTING
+
+Any suspected security incident — a phishing email, a lost device, unauthorized account access, malware, or a suspected data breach — must be reported to the IT Security team immediately via the emergency security hotline or the "Report Security Incident" button in the IT Service Portal, available 24/7. Employees will not face disciplinary action for promptly reporting a genuine security concern, including one caused by their own mistake (e.g., clicking a phishing link), provided it is reported without undue delay.

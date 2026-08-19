@@ -1,0 +1,50 @@
+EMPLOYEE HANDBOOK — LEAVE AND TIME OFF POLICY
+Acme Robotics, Inc. | Policy Reference: SOP-101 | Effective January 2026
+
+1. ANNUAL LEAVE
+
+All full-time employees accrue paid annual leave at a rate of 1.5 days per month of continuous service, up to a maximum of 18 days per calendar year. Leave accrual begins on an employee's first day of employment, but employees may not use accrued leave during their first 90 days (their probationary period); any time off taken during probation is unpaid and does not draw down the accrued leave balance.
+
+Leave requests must be submitted through the HR portal at least 5 business days in advance of the requested start date. Requests are approved by the employee's direct manager. Any leave request spanning more than 10 consecutive business days additionally requires sign-off from the department head, submitted at least 3 weeks in advance.
+
+Unused annual leave in excess of 5 days does not carry over to the following calendar year and is forfeited on December 31st. The only exception is for employees on approved medical leave, who may carry over up to 10 days into the next year with written manager sign-off.
+
+2. SICK LEAVE
+
+Employees receive 10 days of paid sick leave per calendar year, credited in full at the start of each year rather than accrued monthly. Sick leave may be used for the employee's own illness or to care for an immediate family member. Absences of 3 or more consecutive sick days require a doctor's note submitted to HR within 5 business days of returning to work. Unused sick leave does not carry over and is not paid out upon separation.
+
+3. PARENTAL LEAVE
+
+Employees who have completed at least 6 months of continuous service are eligible for 12 weeks of paid parental leave following the birth, adoption, or foster placement of a child. Parental leave may begin up to 2 weeks before the expected date and must be taken within 12 months of the qualifying event. Employees on parental leave continue to accrue annual leave and remain enrolled in company benefits during the leave period.
+
+4. PUBLIC HOLIDAYS
+
+The company observes 10 paid public holidays per year, published annually by HR each December for the following calendar year. Employees required to work on an observed holiday due to business need receive 2x their regular hourly rate for hours worked that day, or an alternate day off within 30 days, at the employee's choice.
+
+5. COMPENSATORY OFF (COMP-OFF)
+
+Employees who work on a weekend or a public holiday to meet a project or client deadline are entitled to compensatory off ("comp-off") — one additional day of paid leave for each full day worked. Comp-off must be availed within 60 days of being earned, after which it is forfeited; it does not carry over across calendar years and is not paid out upon separation. Comp-off requests must be pre-approved by the employee's manager before the weekend or holiday work is undertaken, and confirmed in the HR portal within 3 business days afterward.
+
+6. BEREAVEMENT LEAVE
+
+Employees are entitled to 5 consecutive days of paid bereavement leave upon the death of an immediate family member (spouse, child, parent, or sibling), and 2 days of paid leave upon the death of a grandparent, grandchild, or in-law. Bereavement leave does not need to be requested in advance and can be confirmed with HR retroactively within 10 business days.
+
+7. MARRIAGE LEAVE
+
+Employees who have completed at least 1 year of continuous service are eligible for 5 days of paid marriage leave for their own wedding, available once during their tenure with the company. Marriage leave must be requested at least 2 weeks in advance and cannot be combined with annual leave to extend beyond a total of 15 consecutive calendar days without department head approval.
+
+8. LEAVE WITHOUT PAY (LWP)
+
+Employees who have exhausted their annual and sick leave balances may request leave without pay (LWP) for genuine personal circumstances, subject to manager and HR approval. LWP beyond 30 consecutive calendar days requires VP-level approval and may affect the employee's benefits continuity and annual leave accrual for that period. Extended LWP beyond 90 days requires the employee to formally re-apply for reinstatement, which is not guaranteed.
+
+9. WORK FROM HOME AND HYBRID POLICY
+
+Regular work-from-home days (see the Remote Work and Expense Policy, SOP-114, for the standard 2-day hybrid allowance) are distinct from leave and do not draw down any leave balance. Employees who need to work from home outside their regular hybrid schedule due to a one-off circumstance (e.g., a home repair appointment, minor illness not requiring sick leave) may mark themselves as "WFH — Ad hoc" in the HR portal with manager notification, limited to 4 such ad hoc days per quarter before requiring formal remote work exception approval.
+
+10. NOTICE PERIOD AND RESIGNATION
+
+Employees who resign are required to serve a notice period based on their band: 30 days for Associate and Senior Associate bands, 60 days for Manager and Senior Manager bands, and 90 days for Director band and above. The notice period begins on the date the resignation is formally submitted and acknowledged in the HR portal, not the date it is verbally communicated. Any unused annual leave during the notice period may be adjusted against the notice period only with manager approval; it cannot be used to shorten the notice period unilaterally. See the Compensation and Offboarding Policy (SOP-401) for details on notice period buyout and the exit clearance process.
+
+11. LEAVE PAYOUT ON SEPARATION
+
+Employees who resign or are terminated are paid out for any accrued but unused annual leave, calculated at their most recent base salary rate, included in their final paycheck as required by state law. Sick leave, comp-off, and parental leave balances are not eligible for payout under any circumstances.

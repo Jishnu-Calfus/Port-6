@@ -1,0 +1,50 @@
+CODE OF CONDUCT AND WORKPLACE SAFETY POLICY
+Acme Robotics, Inc. | Policy Reference: SOP-201 | Effective January 2026
+
+1. STANDARDS OF CONDUCT
+
+Employees are expected to act with honesty and integrity in all business dealings and to avoid situations that create an actual or perceived conflict of interest. Any outside employment, financial interest in a competitor or supplier, or close personal relationship with a direct report must be disclosed to the employee's manager and HR promptly upon becoming aware of it. Failure to disclose a known conflict of interest may result in disciplinary action up to and including termination.
+
+2. ANTI-HARASSMENT AND DISCRIMINATION
+
+Acme Robotics maintains a zero-tolerance policy toward harassment, discrimination, and retaliation of any kind based on race, gender, age, religion, disability, sexual orientation, or any other legally protected characteristic. Any employee who experiences or witnesses harassment or discrimination should report it as soon as possible to their manager, any member of HR, or through the confidential ethics hotline. Reports are investigated promptly and confidentially, and retaliation against anyone who reports in good faith is itself a violation of this policy subject to disciplinary action. Employees are strongly encouraged to bring these concerns directly to HR rather than attempting to resolve them without support.
+
+2.1 INTERNAL COMMITTEE (IC)
+
+As required under applicable prevention-of-sexual-harassment law, Acme Robotics maintains an Internal Committee (IC) at each location with more than 10 employees, chaired by a senior woman employee and including at least one external member with expertise in workplace harassment matters. Complaints may be submitted to the IC in writing within 3 months of the incident (extendable at the IC's discretion). The IC is required to complete its inquiry within 90 days and submit its recommendation to management, which must be acted upon within 60 days of receipt. All IC proceedings are strictly confidential, and the identity of the complainant is protected throughout the process.
+
+3. ANTI-BRIBERY AND ANTI-CORRUPTION
+
+Employees, and any third parties acting on the company's behalf, must not offer, promise, give, or accept any bribe, kickback, or improper payment to or from any government official, client, vendor, or business partner, in any jurisdiction in which the company operates. This applies regardless of local custom or common practice. Any request for or offer of a bribe must be reported to the Legal and Compliance team immediately; employees who refuse a bribe in accordance with this policy will not face any adverse consequence for lost business.
+
+4. GIFTS AND ENTERTAINMENT
+
+Employees may accept or offer modest business gifts and entertainment (a value under $75) in the ordinary course of business, provided they are infrequent and not intended to influence a business decision. Any gift or entertainment offer exceeding $75 must be declined or, if declining would be culturally inappropriate, disclosed to and approved in advance by the employee's manager and logged in the gifts register maintained by Compliance. Cash or cash-equivalent gifts (gift cards, vouchers) of any value must never be accepted from a client, vendor, or business partner.
+
+5. WHISTLEBLOWER POLICY
+
+Employees who in good faith report suspected violations of law, this Code of Conduct, or company policy — whether financial irregularities, safety violations, harassment, or corruption — are protected from retaliation under this policy. Reports may be made confidentially and, where local law permits, anonymously through the ethics hotline. Any manager found to have retaliated against a good-faith whistleblower is subject to disciplinary action independent of the outcome of the underlying investigation.
+
+6. SOCIAL MEDIA POLICY
+
+Employees are personally responsible for content they post on social media and must not disclose confidential company information, client information, or unreleased product details. When discussing the company or its products publicly, employees should include a disclaimer that views expressed are their own and not the company's, unless posting in an officially authorized capacity (e.g., the corporate communications team). Employees should not engage in social media disputes on the company's behalf without prior authorization from Corporate Communications.
+
+7. DRESS CODE
+
+The standard dress code across all offices is business casual on regular working days. Client-facing roles are expected to follow the dress code of the client site when working on client premises, formal business attire unless the client has communicated a more casual standard. Fridays are designated casual dress days company-wide, excluding days with scheduled client visits or external meetings.
+
+8. CONFIDENTIALITY AND DATA PROTECTION
+
+Employees must not disclose proprietary company information, trade secrets, or confidential customer data to any third party without written authorization from their manager and Legal. This obligation continues after an employee's employment ends. Company data must only be stored on approved, encrypted systems; use of personal cloud storage or personal email for company data is prohibited under this policy. See the IT Security and Acceptable Use Policy (SOP-301) for detailed data classification and handling requirements.
+
+9. NON-COMPETE AND NON-SOLICITATION
+
+Employees in Manager band and above agree, as a condition of employment, not to solicit Acme Robotics' clients or employees for a competing business for a period of 12 months following separation, to the extent enforceable under applicable local law. This restriction does not prevent an employee from accepting employment with a competitor; it restricts only the active solicitation of the company's clients and employees during the restricted period.
+
+10. WORKPLACE SAFETY
+
+All employees must complete annual workplace safety training within 30 days of their hire date and by January 31st each year thereafter. Employees must report any workplace hazard, near-miss, or injury to their manager and to Facilities Management immediately, and no later than the end of the same business day. Repeated failure to complete required safety training may result in restricted building access until training is completed.
+
+11. PERFORMANCE REVIEWS
+
+Formal performance reviews are conducted twice a year, in June and December, by each employee's direct manager, using the standard company review template. New employees receive an additional 90-day review during their probationary period. Performance review outcomes may affect eligibility for annual merit increases, which are determined separately by department budget, and for promotion consideration as described in the Compensation and Offboarding Policy (SOP-401).

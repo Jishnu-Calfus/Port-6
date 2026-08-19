@@ -1,0 +1,42 @@
+REMOTE WORK AND EXPENSE REIMBURSEMENT POLICY
+Acme Robotics, Inc. | Policy Reference: SOP-114 | Effective January 2026
+
+1. REMOTE WORK ELIGIBILITY
+
+Employees in good standing may work remotely up to 2 days per week with their direct manager's approval, provided their role does not require regular on-site presence (e.g., lab or hardware roles are generally excluded). Fully remote arrangements, defined as more than 2 remote days per week, require VP-level sign-off and are reviewed quarterly to confirm they remain appropriate for the role.
+
+Employees working remotely are expected to be reachable during core hours of 10:00 AM to 4:00 PM in their local time zone, and must attend all scheduled meetings with video enabled unless an alternative has been agreed with their manager in advance. Remote work arrangements may be revoked by management at any time if performance or availability concerns arise.
+
+2. COMPANY EQUIPMENT
+
+Company-issued laptops, phones, and peripherals remain the property of Acme Robotics at all times and must be used primarily for business purposes. Employees are responsible for the physical security of company equipment and must report a lost or stolen device to IT within 24 hours. All company equipment must be returned to IT within 5 business days of an employee's termination date; failure to do so may result in the replacement cost being deducted from the final paycheck where permitted by law.
+
+3. EXPENSE REIMBURSEMENT (SOP-114)
+
+Employees must submit expense reports, including itemized receipts, within 30 days of the purchase date to be eligible for reimbursement under SOP-114. Expense reports submitted after 30 days may be denied at management's discretion. Any single reimbursement request over $500 requires prior written approval from a director before the expense is incurred, not after the fact.
+
+Reimbursable expenses include client meals (up to $75 per person), software or tools required for the employee's role, and approved training or certification costs. Personal entertainment, alcohol at non-client events, and commuting costs between an employee's home and their regular office are not reimbursable under this policy.
+
+4. BUSINESS TRAVEL (SOP-122)
+
+Business travel must be booked through the corporate travel portal at least 14 days in advance of departure whenever possible; travel booked with less notice requires manager approval and may be booked directly with receipts submitted for reimbursement instead. Employees traveling for business receive a per diem of $60 per day for meals not otherwise covered, and economy-class airfare is standard for flights under 6 hours; business class requires VP approval and is reserved for flights over 6 hours.
+
+5. INTERNATIONAL TRAVEL AND VISA POLICY
+
+Employees traveling internationally for business must apply for their visa through the corporate immigration desk at least 45 days before departure; the company covers visa application fees and one expedited processing fee if required by project timelines. Employees are responsible for ensuring their passport has at least 6 months of validity remaining before international travel is booked. A pre-travel briefing with the Global Mobility team is mandatory for any first-time international assignment, covering local compliance, tax residency implications, and emergency contact procedures.
+
+6. RELOCATION ASSISTANCE
+
+Employees relocating to a different company office at management's request are eligible for relocation assistance covering one-way economy travel for the employee and immediate dependents, temporary housing for up to 30 days, and a lump-sum settling-in allowance equivalent to one month's base salary. Employees who voluntarily resign within 12 months of a company-funded relocation are required to repay a prorated portion of the relocation assistance received, calculated on a straight-line basis over the 12-month period.
+
+7. ONSITE DEPUTATION POLICY
+
+Employees deputed to a client location in a different country (an "onsite" assignment) receive a foreign allowance in addition to their base salary for the duration of the deputation, along with company-arranged accommodation or a housing stipend, as specified in the individual deputation letter. Onsite assignments are typically reviewed every 6 months and may be extended, shortened, or converted to a permanent transfer based on project and client requirements. Employees returning from an onsite assignment revert to their home-location compensation structure effective the date of return, as recorded in the HR portal.
+
+8. MOBILE AND INTERNET REIMBURSEMENT
+
+Employees in client-facing or on-call roles receive a monthly mobile and home internet reimbursement of up to $50, submitted quarterly with a copy of the billing statement. This allowance is separate from, and does not reduce, the general expense reimbursement limits described in Section 3.
+
+9. CLIENT SITE CONDUCT
+
+Employees working at a client site must comply with the client's local site policies (badge access, security screening, visitor logs) in addition to Acme Robotics' own Code of Conduct (SOP-201). Any client feedback regarding an employee's conduct at a client site is routed to the employee's manager and HR within 2 business days and may be considered as part of the employee's performance review.

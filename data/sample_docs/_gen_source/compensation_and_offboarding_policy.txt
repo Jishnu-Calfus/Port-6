@@ -1,0 +1,42 @@
+COMPENSATION, BENEFITS, AND OFFBOARDING POLICY
+Acme Robotics, Inc. | Policy Reference: SOP-401 | Effective January 2026
+
+1. SALARY AND PAYROLL CYCLE
+
+Salaries are paid monthly, credited to the employee's registered bank account on the last working day of each month. Payslips are made available through the HR portal by the 1st business day of the following month. Any payroll discrepancy must be reported to the Payroll team within 5 business days of receiving the payslip for it to be corrected in the same cycle; later corrections are processed in the following month's payroll.
+
+2. PROVIDENT FUND AND GRATUITY
+
+The company contributes to each eligible employee's provident fund at the statutory rate, matched by an equal employee contribution deducted from monthly salary, in accordance with applicable retirement savings law. Employees who complete 5 or more years of continuous service are eligible for gratuity, calculated per statutory formula, payable upon separation regardless of the reason for leaving (except in cases of termination for proven misconduct, where gratuity forfeiture follows the applicable legal process).
+
+3. HEALTH INSURANCE (MEDICLAIM)
+
+All full-time employees are enrolled in the company's group health insurance (mediclaim) plan from their date of joining, covering the employee, spouse, and up to 2 dependent children at no cost to the employee. Coverage for parents or parents-in-law is available as an optional add-on at a subsidized premium, deducted from monthly salary if elected during the annual open enrollment window. Claims are processed through the insurance provider's portal; the HR Benefits team assists with escalations for claims pending more than 15 business days.
+
+4. VARIABLE PAY AND ANNUAL BONUS
+
+Eligible employees participate in the variable pay program, with a target variable component (typically 10-20% of base salary depending on band) tied to a combination of individual performance rating and overall company performance for the fiscal year. Variable pay is calculated and paid out annually, following the completion of the December performance review cycle described in the Code of Conduct and Workplace Safety Policy (SOP-201), typically disbursed by the end of Q1 of the following year. Employees who resign before the payout date, or who receive a performance rating below the eligibility threshold, are not eligible for that year's variable pay.
+
+5. EMPLOYEE REFERRAL PROGRAM
+
+Employees who refer a candidate who is subsequently hired are eligible for a referral bonus, ranging from $500 for standard roles to $2,000 for hard-to-fill specialist and leadership roles, paid in two installments: 50% upon the referred candidate's confirmation after probation, and 50% upon the referred candidate completing 6 months of service. Referral bonuses are not payable for candidates who were already in the company's active hiring pipeline prior to the referral, or for referrals of an employee's immediate family members.
+
+6. BACKGROUND VERIFICATION (BGV)
+
+All offers of employment are contingent on successful completion of a background verification check, covering prior employment history, educational qualifications, and, where legally permitted, a criminal record check. BGV is typically completed within 30 days of an employee's start date; a discrepancy identified during BGV is reviewed by HR and Legal on a case-by-case basis and may result in termination of employment if the discrepancy is material and was not disclosed during the hiring process.
+
+7. PROBATION AND CONFIRMATION
+
+New employees serve a probationary period of 90 days from their date of joining (180 days for Manager band and above), during which either party may end the employment relationship with 15 days' notice, shorter than the standard notice periods described in the Leave and Time Off Policy (SOP-101). Confirmation of employment following successful completion of probation is communicated in writing through the HR portal and is not automatic; a probation period may be extended by up to 90 additional days at the manager's discretion if performance needs further evaluation.
+
+8. NOTICE PERIOD BUYOUT
+
+An employee who wishes to leave before completing their full notice period (see SOP-101, Section 10) may request a notice period buyout, under which the employee pays the company an amount equal to their base salary for the unserved portion of the notice period, subject to manager and HR approval. The company may also, at its discretion, waive part or all of an employee's notice period without requiring a buyout payment if a replacement is already in place. Buyout requests are not guaranteed and are evaluated based on the employee's role criticality and ongoing project commitments.
+
+9. EXIT AND CLEARANCE PROCESS
+
+Departing employees must complete the exit clearance checklist in the HR portal, covering return of company equipment (per SOP-114), revocation of system access (per SOP-301), handover of ongoing work to the designated successor, and settlement of any outstanding advances or dues. Full and final settlement, including any leave payout described in SOP-101, is processed within 45 days of the employee's last working day, or sooner where required by local law. An exit interview with HR is offered, though not mandatory, to all departing employees.
+
+10. TIMESHEET AND ATTENDANCE POLICY
+
+Employees are required to log daily attendance via the office biometric system or the HR portal (for remote/hybrid days) and to submit a weekly timesheet allocating hours worked to the relevant project or client engagement code, due by end of day each Friday. Timesheets are used both for internal resource planning and, for client-billable roles, as the basis for client invoicing; late or inaccurate timesheet submission may delay the associated variable pay assessment for that quarter described in Section 4.
